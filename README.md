@@ -1,4 +1,4 @@
-# Stein Latent Optimization for Generative Adversarial Networks
+# Stein Latent Optimization for GANs
 
 ![SLOGAN_model](https://user-images.githubusercontent.com/25117385/153810087-17833971-a2dd-4a6a-b8a4-d8d28a8f3ed0.PNG)
 
