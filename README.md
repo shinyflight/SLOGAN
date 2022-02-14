@@ -1,4 +1,4 @@
-# Stein Latent Optimization for GANs
+## Stein Latent Optimization for GANs (SLOGAN)
 
 ![SLOGAN_model](https://user-images.githubusercontent.com/25117385/153810087-17833971-a2dd-4a6a-b8a4-d8d28a8f3ed0.PNG)
 
@@ -12,6 +12,8 @@ Abstract: _Generative adversarial networks (GANs) with clustered latent spaces c
 
 <!-- This is a Tensorflow implementation of "Stein Latent Optimization for Generative Adversarial Networks" accepted at ICLR 2022 ([paper](https://openreview.net/forum?id=2-mkiUs9Jx7)).
 Uiwon Hwang, Heeseung Kim, Dahuin Jung, Hyemi Jang, Hyungyu Lee, Sungroh Yoon. “[Stein Latent Optimization for Generative Adversarial Networks.](https://openreview.net/forum?id=2-mkiUs9Jx7)” International Conference on Learning Representations (ICLR), 2022 -->
+
+<br />
 
 ## A Tensorflow implementation of SLOGAN
 
@@ -66,7 +68,9 @@ SLOGAN can be trained with the CIFAR-2 (7:3) dataset using the following command
    
 Log files are stored in './logs/cifar2/"RATIO_PLANE"', and training logs and generated images can be viewed using Tensorboard.
 
-### Citation 
+<br />
+
+## Citation 
     @inproceedings{
     hwang2022stein,
     title={Stein Latent Optimization for Generative Adversarial Networks},
