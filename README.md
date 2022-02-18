@@ -71,11 +71,9 @@ Log files are stored in './logs/cifar2/"RATIO_PLANE"', and training logs and gen
 <br />
 
 ## Citation 
-    @inproceedings{
-    hwang2022stein,
-    title={Stein Latent Optimization for Generative Adversarial Networks},
-    author={Uiwon Hwang and Heeseung Kim and Dahuin Jung and Hyemi Jang and Hyungyu Lee and Sungroh Yoon},
-    booktitle={International Conference on Learning Representations},
-    year={2022},
-    url={https://openreview.net/forum?id=2-mkiUs9Jx7}
+    @inproceedings{hwang2022stein,
+        title={Stein Latent Optimization for Generative Adversarial Networks},
+        author={Uiwon Hwang and Heeseung Kim and Dahuin Jung and Hyemi Jang and Hyungyu Lee and Sungroh Yoon},
+        booktitle={International Conference on Learning Representations},
+        year={2022}
     }
